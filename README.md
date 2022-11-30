@@ -1,1 +1,1 @@
-
+O projeto, batizado de, FRANCALUZ, é um projeto integrador realizado pelos alunos: José Gabriel, Monica Aimola, Lauany e Bruna, com o intuito de trazer uma visão maior a um dos objetivos da ONU(Organização das Nações Unidas) para 2030, o de trazer uma energia limpa e a susten a todos, trazendo assim, consigo, a produção de um site que viabilize todas essa informações de nossa empresa  (ficticia).
